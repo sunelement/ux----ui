@@ -64,7 +64,7 @@ p {
 }
 
 img {
-    border-radius: 8px; /* Gives all images slightly rounded corners */
+    border-radius: 8px; 
     max-width: 90%; /* Ensures all images stay within the width of their container */
     height: 400px; /* Sets the height of all images */
     display: block; /* By specifying block display we can ensure our images are able to be centered */
