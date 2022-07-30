@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("outside.jpg");
+    background-image: url("../outside.jpg");
     background-size: cover;
     text-align: right;
     color: #ab8e0e;
